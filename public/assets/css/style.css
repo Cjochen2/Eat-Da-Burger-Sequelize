@@ -1,3 +1,24 @@
 .dev {
  height: 50%
 }
+
+.jumbotron{
+    background-image: url("../img/jumbo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: 5px solid black;
+  }
+
+body{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: none;
+  }
+
+.header {
+    color: turquoise;
+}
+
+.backG {
+    background-color: turquoise;
+}
